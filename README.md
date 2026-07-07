@@ -48,11 +48,3 @@
 - 📊 **EDS**
 
 ---
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omkumar-rajput&theme=tokyonight&no-frame=true&row=1&column=4"/>
-</p>
-
-<p align="center">
-<i>"Create • Design • Innovate"</i>
-</p>
