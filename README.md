@@ -50,11 +50,6 @@
 ---
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omkumar-rajput&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omkumar-rajput&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=omkumar-rajput&theme=tokyonight&no-frame=true&row=1&column=4"/>
 </p>
 
