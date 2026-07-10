@@ -38,13 +38,3 @@
 
 </p>
 
----
-
-## 📌 Featured Projects
-
-- 🚗 **Nitro Highway Racer X**
-- 🌐 **Webpage**
-- 🌱 **EVS**
-- 📊 **EDS**
-
----
